@@ -1,123 +1,36 @@
 ---
 layout: default
 ---
+## Abstract
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Details
+We contribute **xxxxx** database, a large-scale sun glare image dataset, which has several appealing properties:
 
-[Link to another page](./another-page.html).
+- **xxxx** consists of 100k synthesized glare images, glare-free images, occlusion images, and foreground images.
 
-There should be whitespace between paragraphs.
+- To simulate the catoptric behaviors of sunlight to synthesize glare images, each base masks could be classified into six subset:
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+| Subset          | Hexagonal | Octagonal | Star-shaped | Triangular | Rectangular | Ring-shaped |
+|:----------------|:----------|:----------|:------------|:-----------|:------------|:------------|
+| #base masks     |       12  | 15  |12|13|16|7|
+| #training image |    12000  | 15000|12000|13000|16000|7000|
+| #testing image  |     1922  | 2490|1992|2158|2656|1162|
 
-# Header 1
+## Download
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Paper [[PDF, 156KB]](https://ieeexplore.ieee.org/document/9015309)
+* Smoke100k [[Google Drive]](https://drive.google.com/drive/folders/1a3C010h7zzNPomMpddb74X3GffZx-R9C?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1viTqeu4rdCK5CtEvtQkFug) (password: ahsz)
 
-## Header 2
+## Agreement
+* The **xxxx** dataset is available for non-commercial research purposes only.
+* You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
+* You agree not to further copy, publish or distribute any portion of the **xxx** dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+* The BigMMS Laboratory reserves the right to terminate your access to the **xxx** dataset at any time.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Citation
 
 
-### Definition lists can be used with HTML syntax.
+## Contact
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Please contact [Hsiang-Yin Cheng](mailto:qwaszx841002@gmail.com), [Jia-Li Yin](mailto:jlyin@fzu.edu.cn), or [Bo-Hao Chen](mailto:bhchen@saturn.yzu.edu.tw) for questions about the dataset.
