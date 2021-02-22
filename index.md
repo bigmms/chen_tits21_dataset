@@ -2,12 +2,12 @@
 layout: default
 ---
 ## Abstract
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Using de-hazing, de-raining, and de-reflection methods to eliminate glare from a single image is challenging. In this study, we formulated sun glare removal as an image decomposition problem. We solved this problem by developing a single-image-based sun glare removal network, which can achieve accurate glare segmentation and removal with highquality visual perception. To enable end-to-end discriminative learning in our network, we synthesized multiple glare images according to the glare image formation model. In the synthesis procedure, we randomly set the sun rays to have diversified sizes, shapes, densities, and positions in the aforementioned model. To the best of our knowledge, this study is among the first to construct a large-scale sun glare image dataset comprising glare and glare-free image pairs of different license plates and the corresponding decomposed components of the images.
 
 ## Details
 We contribute **xxxxx** database, a large-scale sun glare image dataset, which has several appealing properties:
 
-- **xxxx** consists of 100k synthesized glare images, glare-free images, occlusion images, and foreground images.
+- **xxxx** consists of 87.5k synthesized glare images, glare-free images, occlusion images, and foreground images.
 
 - To simulate the catoptric behaviors of sunlight to synthesize glare images, each base masks could be classified into six subset:
 
@@ -19,8 +19,8 @@ We contribute **xxxxx** database, a large-scale sun glare image dataset, which h
 
 ## Download
 
-* Paper [[PDF, 156KB]](https://ieeexplore.ieee.org/document/9015309)
-* Smoke100k [[Google Drive]](https://drive.google.com/drive/folders/1a3C010h7zzNPomMpddb74X3GffZx-R9C?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1viTqeu4rdCK5CtEvtQkFug) (password: ahsz)
+* Paper [[PDF]](https://ieeexplore.ieee.org/document/9357944)
+* xxxx [[Google Drive]](https://drive.google.com/drive/folders/1a3C010h7zzNPomMpddb74X3GffZx-R9C?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1viTqeu4rdCK5CtEvtQkFug) (password: ahsz)
 
 ## Agreement
 * The **xxxx** dataset is available for non-commercial research purposes only.
@@ -28,8 +28,18 @@ We contribute **xxxxx** database, a large-scale sun glare image dataset, which h
 * You agree not to further copy, publish or distribute any portion of the **xxx** dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 * The BigMMS Laboratory reserves the right to terminate your access to the **xxx** dataset at any time.
 
-## Citation
-
+## Attribution
+```
+@ARTICLE{9357944,
+  author={B. -H. {Chen} and S. {Ye} and J. -L. {Yin} and H. -Y. {Cheng} and D. {Chen}},
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={Deep Trident Decomposition Network for Single License Plate Image Glare Removal}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TITS.2021.3058530}}
+```
 
 ## Contact
 
