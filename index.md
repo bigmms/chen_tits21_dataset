@@ -17,6 +17,10 @@ We contribute **xxxxx** database, a large-scale sun glare image dataset, which h
 | #training image |    12000  | 15000|12000|13000|16000|7000|
 | #testing image  |     1922  | 2490|1992|2158|2656|1162|
 
+## Sample Images
+<img src="./figures/sample.png" width="600" height="300" align="middle" />
+
+
 ## Download
 
 * Paper [[PDF]](https://ieeexplore.ieee.org/document/9357944)
