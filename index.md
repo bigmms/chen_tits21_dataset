@@ -5,7 +5,7 @@ layout: default
 <img src="./figure/demo.png" width="640" height="480" align="middle" />
 
 # News
-* **2021-02-23** Amount of images of **Sun glare image dataset** are all increased to 87.5k now.
+* **2021-02-23** Amount of images of **Sun glare image dataset** are all increased to **87.5k** now.
 * **2020-02-23** If Google Drive is not accessible, please download the dataset using Baidu Drive.
 
 ## Overview
@@ -76,7 +76,7 @@ Before downloading and using the **Sun glare image dataset**, please agree to th
 
 (8) The Producer reserves the right to terminate the User’s access to the **Sun glare image dataset** at any time.
 
-(9) For using sun glare image dataset, please cite the following papers:
+(9) For using **sun glare image dataset**, please cite the following papers:
 ```
 @ARTICLE{ChenTITS2021,
   author={B. -H. {Chen} and S. {Ye} and J. -L. {Yin} and H. -Y. {Cheng} and D. {Chen}},
