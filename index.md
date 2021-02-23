@@ -116,7 +116,8 @@ Please contact [Hsiang-Yin Cheng](mailto:qwaszx841002@gmail.com), [Jia-Li Yin](m
   "@context" : "http://schema.org",
   "@type" : "Dataset",
   "name" : "Sun Glare Image Dataset",
-  "description" : "Sun glare image dataset, a new dataset for synthesized sun glare",
+  "description" : "Sun glare image dataset, a new dataset for synthesized sun glare, features three appealing properties: good quality, large scale, and high diversity.",
+  "version" : "1.0",
   "distribution" : {
     "@type" : "DataDownload",
     "contentUrl" : "https://bigmms.github.io/chen_tits21_dataset/"
