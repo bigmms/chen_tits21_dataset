@@ -8,12 +8,8 @@ layout: default
 * **2021-02-23** Amount of images of **Sun glare image dataset** are all increased to 87.5k now.
 * **2020-02-23** If Google Drive is not accessible, please download the dataset using Baidu Drive.
 
-<!---
-## Abstract
-Using de-hazing, de-raining, and de-reflection methods to eliminate glare from a single image is challenging. In this study, we formulated sun glare removal as an image decomposition problem. We solved this problem by developing a single-image-based sun glare removal network, which can achieve accurate glare segmentation and removal with high quality visual perception. To enable end-to-end discriminative learning in our network, we synthesized multiple glare images according to the glare image formation model. In the synthesis procedure, we randomly set the sun rays to have diversified sizes, shapes, densities, and positions in the aforementioned model. To the best of our knowledge, this study is among the first to construct a large-scale sun glare image dataset comprising glare and glare-free image pairs of different license plates and the corresponding decomposed components of the images.--->
-
 ## Overview
-**Sun glare image dataset**, a new dataset for synthesized sun glare, features three appealing properties: good quality, large scale, and high diversity. A total of **1,166** glare-free license plate images with different plate numbers were collected from ETC systems. The glare-free images in our dataset were divided into two subsets, namely the training and testing subsets. We randomly sampled **1,000** glare-free images to be the training set, and the remaining **166** glare-free images comprised the testing set. There are **75** base masks which could be classified into **6** subset to simulate the catoptric behaviors of sunlight. The number of synthesized glare images in each subset is presented in Details part.
+**Sun glare image dataset**, a new dataset for synthesized sun glare, features three appealing properties: good quality, large scale, and high diversity. A total of **1,166** glare-free license plate images with different plate numbers were collected at road during morning commute traffic. The glare-free images in our dataset were divided into two subsets, namely the training and testing subsets. We randomly sampled **1,000** glare-free images to be the training set, and the remaining **166** glare-free images comprised the testing set. There are **75** base masks which could be classified into **6** subset to simulate the catoptric behaviors of sunlight. The number of synthesized glare images in each subset is presented in **Details** part.
 
 ## Details
 We contribute **Sun glare image dataset**, a large-scale sun glare image dataset, which has several appealing properties:
