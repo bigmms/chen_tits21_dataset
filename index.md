@@ -58,7 +58,7 @@ dataset
 <img src="./figure/sample.png" width="640" height="300" align="middle" />
 
 ## Agreement
-Before downloading and using the sun glare image dataset, please agree to the following terms of use. You, your employer and your affiliations are referred to as “User”. The authors and their affiliations, Yuan Ze University, are referred to as “Producer”.
+Before downloading and using the **Sun glare image dataset**, please agree to the following terms of use. You, your employer and your affiliations are referred to as “User”. The authors and their affiliations, Yuan Ze University, are referred to as “Producer”.
 
 (1) The **Sun glare image dataset** is used for non-commercial/non-profit research purposes only.
 
