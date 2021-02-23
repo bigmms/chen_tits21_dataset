@@ -5,9 +5,9 @@ layout: default
 Using de-hazing, de-raining, and de-reflection methods to eliminate glare from a single image is challenging. In this study, we formulated sun glare removal as an image decomposition problem. We solved this problem by developing a single-image-based sun glare removal network, which can achieve accurate glare segmentation and removal with highquality visual perception. To enable end-to-end discriminative learning in our network, we synthesized multiple glare images according to the glare image formation model. In the synthesis procedure, we randomly set the sun rays to have diversified sizes, shapes, densities, and positions in the aforementioned model. To the best of our knowledge, this study is among the first to construct a large-scale sun glare image dataset comprising glare and glare-free image pairs of different license plates and the corresponding decomposed components of the images.
 
 ## Details
-We contribute **xxxxx** database, a large-scale sun glare image dataset, which has several appealing properties:
+We contribute **glare image** dataset, a large-scale sun glare image dataset, which has several appealing properties:
 
-- **xxxx** consists of 87.5k synthesized glare images, glare-free images, occlusion images, and foreground images.
+- **glare image** consists of 87.5k synthesized glare images, glare-free images, occlusion images, and foreground images.
 
 - To simulate the catoptric behaviors of sunlight to synthesize glare images, each base masks could be classified into six subset:
 
@@ -18,19 +18,19 @@ We contribute **xxxxx** database, a large-scale sun glare image dataset, which h
 | #testing image  |     1922  | 2490|1992|2158|2656|1162|
 
 ## Sample Images
-<img src="./figure/sample.png" width="650" height="300" align="middle" />
+<img src="./figure/sample.png" width="630" height="300" align="middle" />
 
 
 ## Download
 
 * Paper [[PDF]](https://ieeexplore.ieee.org/document/9357944)
-* xxxx [[Google Drive]](https://drive.google.com/drive/folders/1a3C010h7zzNPomMpddb74X3GffZx-R9C?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1viTqeu4rdCK5CtEvtQkFug) (password: ahsz)
+* xxxx [[Google Drive]](https://drive.google.com/drive/folders/1He7MLn-7Kcvdj6rJPpF50xR0e21vqQ0R?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1I4I2ge8uJfSciB-VeB2imw) (password: bkf1)
 
 ## Agreement
-* The **xxxx** dataset is available for non-commercial research purposes only.
+* The **glare image** dataset is available for non-commercial research purposes only.
 * You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
-* You agree not to further copy, publish or distribute any portion of the **xxx** dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
-* The BigMMS Laboratory reserves the right to terminate your access to the **xxx** dataset at any time.
+* You agree not to further copy, publish or distribute any portion of the **glare image** dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+* The BigMMS Laboratory reserves the right to terminate your access to the **glare image** dataset at any time.
 
 ## Attribution
 ```
