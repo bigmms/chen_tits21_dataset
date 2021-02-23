@@ -5,8 +5,9 @@ layout: default
 <img src="./figure/demo.png" width="640" height="480" align="middle" />
 
 # News
-* **2021-02-23** Amount of images of **glare image dataset** are all increased to 87.5k now.
+* **2021-02-23** Amount of images of **Sun glare image dataset** are all increased to 87.5k now.
 * **2020-02-23** If Google Drive is not accessible, please download the dataset using Baidu Drive.
+
 <!---
 ## Abstract
 Using de-hazing, de-raining, and de-reflection methods to eliminate glare from a single image is challenging. In this study, we formulated sun glare removal as an image decomposition problem. We solved this problem by developing a single-image-based sun glare removal network, which can achieve accurate glare segmentation and removal with high quality visual perception. To enable end-to-end discriminative learning in our network, we synthesized multiple glare images according to the glare image formation model. In the synthesis procedure, we randomly set the sun rays to have diversified sizes, shapes, densities, and positions in the aforementioned model. To the best of our knowledge, this study is among the first to construct a large-scale sun glare image dataset comprising glare and glare-free image pairs of different license plates and the corresponding decomposed components of the images.--->
