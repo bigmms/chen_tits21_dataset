@@ -109,3 +109,19 @@ We benchmark seven representative atmospheric obscuration removal methods using 
 
 ## Contact
 Please contact [Hsiang-Yin Cheng](mailto:qwaszx841002@gmail.com), [Jia-Li Yin](mailto:jlyin@fzu.edu.cn), or [Bo-Hao Chen](mailto:bhchen@saturn.yzu.edu.tw) for questions about the dataset.
+
+<!-- 由 Google 結構化資料標記協助工具產生的 JSON-LD 標記。 -->
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Dataset",
+  "name" : "Sun Glare Image Dataset",
+  "description" : "Sun glare image dataset, a new dataset for synthesized sun glare",
+  "distribution" : {
+    "@type" : "DataDownload",
+    "contentUrl" : "https://bigmms.github.io/chen_tits21_dataset/"
+  },
+  "sourceOrganization" : "BigMMS Laboratory",
+  "datePublished" : "2021-02-23"
+}
+</script>
