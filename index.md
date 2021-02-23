@@ -63,13 +63,7 @@ Before downloading and using the sun glare image dataset, please agree to the fo
 * You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
 * You agree not to further copy, publish or distribute any portion of the **Sun glare image dataset**. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 * The BigMMS Laboratory reserves the right to terminate your access to the **Sun glare image dataset** at any time.
-
-## Download
-* Paper [[PDF]](https://ieeexplore.ieee.org/document/9357944)
-* Sun glare image dataset [[Google Drive]](https://drive.google.com/drive/folders/1He7MLn-7Kcvdj6rJPpF50xR0e21vqQ0R?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1I4I2ge8uJfSciB-VeB2imw) (password: bkf1)
-
-## Attribution
-For using sun glare image dataset, please cite the following papers:
+* For using sun glare image dataset, please cite the following papers:
 ```
 @ARTICLE{ChenTITS2021,
   author={B. -H. {Chen} and S. {Ye} and J. -L. {Yin} and H. -Y. {Cheng} and D. {Chen}},
@@ -92,6 +86,11 @@ number={},
 pages={201-205},
 doi={10.1109/ICIP40778.2020.9190712}}
 ```
+
+
+## Download
+* Paper [[PDF]](https://ieeexplore.ieee.org/document/9357944)
+* Sun glare image dataset [[Google Drive]](https://drive.google.com/drive/folders/1He7MLn-7Kcvdj6rJPpF50xR0e21vqQ0R?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1I4I2ge8uJfSciB-VeB2imw) (password: bkf1)
 
 
 ## Contact
