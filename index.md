@@ -59,14 +59,23 @@ dataset
 
 ## Agreement
 Before downloading and using the sun glare image dataset, please agree to the following terms of use. You, your employer and your affiliations are referred to as “User”. The authors and their affiliations, Yuan Ze University, are referred to as “Producer”.
+
 (1) The **Sun glare image dataset** is used for non-commercial/non-profit research purposes only.
+
 (2) All the source images in **Sun glare image dataset** collected by the Producer are supported by the Ministry of Science and Technology, Taiwan under Grant MOST 108-2221-E-155-034-MY3 and Grant MOST 107-2221-E-155-052-MY2. All the images in **Sun glare image dataset** can be used for academic purposes. However, the Producer is NOT responsible for any further use in a defamatory, pornographic or any other unlawful manner, or violation of any applicable regulations or laws.
+
 (3) The User takes full responsibility for any consequence caused by his/her use of **Sun glare image dataset** in any form and shall defend and indemnify the Producer against all claims arising from such uses.
+
 (4) The User should NOT distribute, copy, reproduce, disclose, assign, sublicense, embed, host, transfer, sell, trade, or resell any portion of the **Sun glare image dataset** to any third party for any purpose.
+
 (5) The User can provide his/her research associates and colleagues with access to **Sun glare image dataset** (the download link or the dataset itself) provided that he/she agrees to be bound by these terms of use and guarantees that his/her research associates and colleagues agree to be bound by these terms of use.
+
 (6) The User should NOT remove or alter any copyright, trademark, or other proprietary notices appearing on or in copies of the **Sun glare image dataset**.
+
 (7) This agreement is effective for any potential User of the **Sun glare image dataset** upon the date that the User first accesses the **Sun glare image dataset** in any form.
+
 (8) The Producer reserves the right to terminate the User’s access to the **Sun glare image dataset** at any time.
+
 (9) For using sun glare image dataset, please cite the following papers:
 ```
 @ARTICLE{ChenTITS2021,
