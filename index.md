@@ -14,7 +14,7 @@ We contribute **glare image dataset**, a large-scale sun glare image dataset, wh
 
 - To simulate the catoptric behaviors of sunlight to synthesize glare images, each base masks could be classified into six subset:
 
-| Subset          | Hexagonal | Octagonal | Star-shaped | Triangular | Rectangular | Ring-shaped |
+| Subset          | Hexagonal | Octagonal | Star | Triangular | Rectangular | Ring |
 |:----------------|:----------|:----------|:------------|:-----------|:------------|:------------|
 | #base masks     |       12  | 15  |12|13|16|7|
 | #training image |    12000  | 15000|12000|13000|16000|7000|
