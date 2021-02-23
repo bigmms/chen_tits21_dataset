@@ -24,7 +24,7 @@ We contribute **glare image** dataset, a large-scale sun glare image dataset, wh
 ## Download
 
 * Paper [[PDF]](https://ieeexplore.ieee.org/document/9357944)
-* xxxx [[Google Drive]](https://drive.google.com/drive/folders/1He7MLn-7Kcvdj6rJPpF50xR0e21vqQ0R?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1I4I2ge8uJfSciB-VeB2imw) (password: bkf1)
+* glare image dataset [[Google Drive]](https://drive.google.com/drive/folders/1He7MLn-7Kcvdj6rJPpF50xR0e21vqQ0R?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1I4I2ge8uJfSciB-VeB2imw) (password: bkf1)
 
 ## Agreement
 * The **glare image** dataset is available for non-commercial research purposes only.
