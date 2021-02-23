@@ -37,7 +37,7 @@ We contribute **glare image dataset**, a large-scale sun glare image dataset, wh
 
 ## Attribution
 ```
-@ARTICLE{9357944,
+@ARTICLE{ChenTITS2021,
   author={B. -H. {Chen} and S. {Ye} and J. -L. {Yin} and H. -Y. {Cheng} and D. {Chen}},
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={Deep Trident Decomposition Network for Single License Plate Image Glare Removal}, 
