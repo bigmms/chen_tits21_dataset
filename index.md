@@ -101,9 +101,11 @@ doi={10.1109/ICIP40778.2020.9190712}}
 ```
 
 ## Download
-* Paper [[PDF]](https://ieeexplore.ieee.org/document/9357944)
-* Sun glare image dataset [[Google Drive]](https://drive.google.com/drive/folders/1He7MLn-7Kcvdj6rJPpF50xR0e21vqQ0R?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1I4I2ge8uJfSciB-VeB2imw) (password: bkf1)
+* [[Google Drive]](https://drive.google.com/drive/folders/1He7MLn-7Kcvdj6rJPpF50xR0e21vqQ0R?usp=sharing) 
+* [[Baidu Drive]](https://pan.baidu.com/s/1I4I2ge8uJfSciB-VeB2imw) (password: bkf1)
 
+## Benchmark
+We benchmark seven representative atmospheric obscuration removal methods using the **Sun glare image dataset**. Please refer to our [paper](https://ieeexplore.ieee.org/document/9357944) for more information.
 
 ## Contact
 Please contact [Hsiang-Yin Cheng](mailto:qwaszx841002@gmail.com), [Jia-Li Yin](mailto:jlyin@fzu.edu.cn), or [Bo-Hao Chen](mailto:bhchen@saturn.yzu.edu.tw) for questions about the dataset.
