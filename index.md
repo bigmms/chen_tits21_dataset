@@ -18,7 +18,7 @@ We contribute **xxxxx** database, a large-scale sun glare image dataset, which h
 | #testing image  |     1922  | 2490|1992|2158|2656|1162|
 
 ## Sample Images
-<img src="./figure/sample.png" width="600" height="300" align="middle" />
+<img src="./figure/sample.png" width="650" height="300" align="middle" />
 
 
 ## Download
