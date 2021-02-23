@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](./figure/demo.png)
+<img src="./figure/demo.png" width="640" height="480" align="middle" />
 
 # News
 * **2021-02-23** Amount of images of **glare image dataset** are all increased to 87.5k now.
