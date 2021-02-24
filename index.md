@@ -5,7 +5,6 @@ layout: default
 <img src="./figure/demo.png" width="640" height="480" align="middle" />
 
 # News
-* **2021-02-23** Amount of images of **Sun glare image dataset** are all increased to **87.5k** now.
 * **2020-02-23** If Google Drive is not accessible, please download the dataset using Baidu Drive.
 
 ## Overview
